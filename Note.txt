@@ -1,0 +1,5 @@
+!! IMPORTANT:
+For any kind of updation in portfolio use the index.js file which was in src of constant folder.
+1. image updation use the website called: https://postimg.cc/ 
+2. login credential are in notion check there.
+3. Resume was uploaded in google drive incase any future changes made in resume update the link also !!( important )
