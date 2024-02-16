@@ -2,7 +2,7 @@ import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 export const navLinks = [
     { href: '/about', label: 'About' },
-    { href: '/project', label: 'Projects' },
+    { href: '/project', label: 'Project' },
 ]
 
 export const project = [
