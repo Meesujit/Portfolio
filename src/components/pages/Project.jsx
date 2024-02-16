@@ -35,12 +35,12 @@ const Project = () => {
                 <div className="text-sm text-zinc-400">{item.Description}</div>
                 <ul className=" flex items-center gap-x-8 mt-2 ml-1">                
                     <li>
-                        <a href={item.liveDemo} target='_blank' rel="noopener noreferrer" className='hover:text-purple-400 duration-300'>
+                        <a href={item.Code} target='_blank' rel="noopener noreferrer" className='hover:text-purple-400 duration-300'>
                             <FaGithub />
                         </a>
                     </li>
                     <li>
-                        <a href={item.Code} target='_blank' rel="noopener noreferrer" className='hover:text-purple-400 duration-300'>
+                        <a href={item.liveDemo} target='_blank' rel="noopener noreferrer" className='hover:text-purple-400 duration-300'>
                             <FaLink />
                         </a>
                     </li>
