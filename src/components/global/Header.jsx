@@ -1,6 +1,6 @@
 import React from 'react'
 import { navLinks } from '../../constants'
-import Logo from '../icons/logo.png'
+import Logo from '../icons/logosvg.svg'
 
 const Header = () => {
   return (
