@@ -31,7 +31,7 @@ const Hero = () => {
                                <a href={item.href} target="_blank" rel="noreferrer noopener" className='hover:text-purple-400 duration-300 flex gap-2 text-xl'>
 
                                  <Icon className='mt-1' />{item.label}
-                               </a>
+                               </a>                               
                              </li>
                            );
                          })}

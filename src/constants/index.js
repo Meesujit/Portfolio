@@ -7,26 +7,33 @@ export const navLinks = [
 
 export const project = [
     {
-        projectImage: 'https://i.postimg.cc/JhkFdKz9/promptopia.png',
-        projectName: 'Promptopia',
-        Description: 'Promptopia is an open-source AI prompting tool for the modern world to discover, create, and share creative prompts',
-        liveDemo: 'https://promptopia-seven-silk.vercel.app/',
-        Code: 'https://github.com/Meesujit/Promptopia',
+        projectImage: 'https://i.postimg.cc/fbjdspg6/Screenshot-2024-02-26-234909-removebg-preview.png',
+        projectName: 'Nike Landing Page',
+        Description: 'Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly..',
+        liveDemo: 'https://nikeshoe-landingpage1.netlify.app/',
+        Code: 'https://github.com/Meesujit/Nike-landing-page',
     },
-    // {
-    //     projectImage: '',
-    //     projectName:'',
-    //     Description: '',
-    //     liveDemo: '',
-    //     Code: '',
-    // },
-    // {
-    //     projectImage: '',
-    //     projectName:'',
-    //     Description: '',
-    //     liveDemo: '',
-    //     Code: '',
-    // },
+    {
+        projectImage: 'https://i.postimg.cc/Lsf58xMp/Screenshot-2024-02-26-205756.png',
+        projectName:'Hoobank',
+        Description: 'HooBank,Modern UI/UX website using React.js & Tailwind CSS.',
+        liveDemo: 'https://hoobank-ui-ux-modern-website.netlify.app',
+        Code: 'https://github.com/Meesujit/Mordern_UI_UX',
+    },
+    {
+        projectImage: 'https://i.postimg.cc/MZY598rh/threejs.png',
+        projectName:'A 3D Dev Swag Website',
+        Description: 'Create your own style with our new 3D Swag Customization App. Pick colors, add logos, and try designs to make your virtual swag unique.',
+        liveDemo: 'https://3d-custom-shop.netlify.app',
+        Code: 'https://github.com/Meesujit/NextjsProject',
+    },
+    {
+        projectImage: 'https://i.postimg.cc/QMnzGcX7/logo-1.png',
+        projectName:'Thread Clone Website',
+        Description: 'Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!.',
+        liveDemo: 'https://thread-clone-nu-bay.vercel.app/',
+        Code: 'https://github.com/meesujit/thread-clone',
+    },
 ]
 
 export const about = [
@@ -71,7 +78,7 @@ export const techStack = [
     },
     {
         language: 'Linux',
-    },
+    }    
 ]
 
 export const BioData = [
