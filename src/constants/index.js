@@ -44,7 +44,7 @@ export const about = [
         fullBio: 'I am a self-driven, career-oriented software developer specializing in web development and open-source, currently pursuing a Masters degree in computer science. My expertise lies in building interactive full stack applications. Primarily working with technologies like JavaScript, Next.js, React.js, Node.js.',
         shortBio: 'I strongly believe in continuous learning and improving myself, so I try my best to learn in any situation possible, unfavorable or not.',
         email: 'sujit.gda997@gmail.com',
-        resumeURL: 'https://drive.google.com/file/d/1HGlwfvK1oWvQa0dX6vKar3eA66dcrN_A/view?usp=sharing',
+        resumeURL: 'https://drive.google.com/file/d/1kGJc-a8ccwVjUQ-ojxxssjkwWuvf_dyB/view',
     }
 ]
 
